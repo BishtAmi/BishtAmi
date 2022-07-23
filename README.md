@@ -7,8 +7,8 @@
 - 💞️ I’m looking to collaborate on ...
 - Web Dev. Projects, App Dev projects..
 - 📫 How to reach me ...
-- Linkdin-Amit Singh Bisht
-- Whatsapp-8057112885
+- Linkdin-https://www.linkedin.com/in/amit-singh-bisht1/
+- Whatsapp-8279851922
 - Instagram-@amitsinghbisht18
 
 
