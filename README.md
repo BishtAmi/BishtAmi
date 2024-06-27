@@ -1,12 +1,19 @@
-- 👋 Hi, I’m Amit
--  I am a 3rd CSE Year student at NIT agartala.
-- 👀 I’m interested in ....
-- Competitive programming, Web Development, Blockchain and Algo Trading ...
-- 🌱 I’m currently learning ...
-- Problem solving, DSA, Blockchain, Backend, Algo trading..
-- Wanna talk on ...
-- Tech, Web Dev and BlockChain ..
-- 📫 Reach out to me ...
-- Linkdin-https://www.linkedin.com/in/amit-singh-bisht1/
-- Email- singhbishtamit2@gmail.com
-- Personal Portfolio - https://ami-bisht.vercel.app/
+### Hi Geek!! 
+<p align = "left"> <img src = "https://komarev.com/ghpvc/?username=BishtAmi" alt = "Ami-Bisht" /> </p>
+
+- 👋 I’m Amit Singh Bisht, 4th year CSE Undergraduate at NIT Agartala.
+- 💻 I enjoy doing competitive programming and learning new technologies.
+- 🌱 I'm exploring different fields in software development and learning new skills.
+- ⚡ Hobby - Cricket, Football
+- 📫 You can contact me through email - singhbishtamit2@gmail.com
+
+### My Social Media Handles
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/amit-singh-bisht1/)
+[<img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" />](https://x.com/Amisinghbista)
+[<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjtPbCsg-4FpeuiP_ChryT8u95PHsPoqLzwQ&s" />](https://ami-bisht.vercel.app/)
+
+  
+### My Coding Profiles
+[<img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" />](https://codeforces.com/profile/cricketer_hu_M)
+[<img src="https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white" />](https://www.codechef.com/users/ami_2025)
+[<img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />](https://leetcode.com/u/ami_2025/)
