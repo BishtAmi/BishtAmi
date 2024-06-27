@@ -10,7 +10,7 @@
 ### My Social Media Handles
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/amit-singh-bisht1/)
 [<img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" />](https://x.com/Amisinghbista)
-[<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjtPbCsg-4FpeuiP_ChryT8u95PHsPoqLzwQ&s" />](https://ami-bisht.vercel.app/)
+[<img src="https://img.shields.io/badge/portfolio-%231DA1F2.svg?style=for-the-badge&logo=portfolio&logoColor=white" />](https://ami-bisht.vercel.app/)
 
   
 ### My Coding Profiles
