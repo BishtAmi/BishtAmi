@@ -1,10 +1,10 @@
 ### Hi Geek!! 
 <p align = "left"> <img src = "https://komarev.com/ghpvc/?username=BishtAmi" alt = "Ami-Bisht" /> </p>
 
-- 👋 I’m Amit Singh Bisht, 4th year CSE Undergraduate at NIT Agartala.
+- 👋 I’m Amit Singh Bisht, CSE Graduate at NIT Agartala.
 - 💻 I enjoy doing competitive programming and learning new technologies.
 - 🌱 I'm exploring different fields in software development and learning new skills.
-- ⚡ Hobby - Cricket, Football
+- ⚡ Hobby - Cricket, Football, BGMI
 - 📫 You can contact me through email - singhbishtamit2@gmail.com
 
 ### My Social Media Handles
